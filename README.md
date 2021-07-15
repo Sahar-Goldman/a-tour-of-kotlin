@@ -97,8 +97,11 @@ basics
 - [kotlin in action - book](https://www.manning.com/books/kotlin-in-action)
 - [idea multi cursor editing](https://www.manning.com/books/kotlin-in-action)
 - metaprograming exercise - try implementing a basic test runner engine - something that will execute methods annotated with @Testush and print a summary
+
+## Extras
 - [reactive spring with co-routines](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
 - [kotlin spring support](https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0)
 - [gradle in action - book ](https://www.manning.com/books/gradle-in-action)
+- [spring in action - book](https://www.manning.com/books/spring-in-action-sixth-edition?query=spring%20in%20action)
 
 
