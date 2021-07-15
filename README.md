@@ -105,7 +105,7 @@ basics
 - [spring in action - book](https://www.manning.com/books/spring-in-action-sixth-edition?query=spring%20in%20action)
 - [spring graalvm native image](https://spring.io/blog/2020/04/16/spring-tips-the-graalvm-native-image-builder-feature)
 
-## Extra Extras
+## Dev Tools
 - [spacevim](https://spacevim.org/)
 - learn vim using vimtutor
 - [oh my zsh + Hyoer](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
