@@ -103,6 +103,7 @@ basics
 - [kotlin spring support](https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0)
 - [gradle in action - book ](https://www.manning.com/books/gradle-in-action)
 - [spring in action - book](https://www.manning.com/books/spring-in-action-sixth-edition?query=spring%20in%20action)
+- [spring graalvm native image](https://spring.io/blog/2020/04/16/spring-tips-the-graalvm-native-image-builder-feature)
 
 ## Extra Extras
 - [spacevim](https://spacevim.org/)
