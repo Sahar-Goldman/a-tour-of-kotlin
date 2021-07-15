@@ -94,5 +94,8 @@ basics
 - [the art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [intelij cheat sheet](https://www.notion.so/viggin/kotlin-43585-c8c59b4a41ea47ffbcfedaaec2eb5f38#927e9ac0590a401da158a1d90e30d85d)
 - [ace jumping](https://plugins.jetbrains.com/plugin/7086-acejump)
+- [kotlin in action - book](https://www.manning.com/books/kotlin-in-action)
+- [idea multi cursor editing](https://www.manning.com/books/kotlin-in-action)
+- metaprograming exercise - try implementing a basic test runner engine - something that will execute methods annotated with @Testush and print a summary
 
 
