@@ -108,7 +108,7 @@ basics
 ## Dev Tools
 - [spacevim](https://spacevim.org/)
 - learn vim using vimtutor
-- [oh my zsh + Hyoer](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
+- [oh my zsh + Hyper](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
 - [jsonToKotlin - code generator](https://www.json2kotlin.com/)
 - [ windows clipboard history tool](https://windowsreport.com/clipboard-managers-windows-10/)
 
